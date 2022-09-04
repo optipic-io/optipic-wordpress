@@ -1,0 +1,83 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OptiPic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-28 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.3"
+
+#. Author URI of the plugin
+msgid "https://optipic.io/en/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://optipic.io/en/webp/wordpress/"
+msgstr ""
+
+#. Name of the plugin
+msgid "OptiPic"
+msgstr ""
+
+#. Author of the plugin
+msgid "OptiPic.io"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"OptiPic.io - image optimization via smart CDN. The module automates the "
+"process of optimizing and compressing all images on the site according to "
+"the recommendations of Google PageSpeed Insights."
+msgstr ""
+
+msgid "Site ID in your personal account CDN OptiPic"
+msgstr ""
+
+msgid "Enable auto-replace image URLs"
+msgstr ""
+
+msgid "OptiPic Plugin 0ptions"
+msgstr ""
+
+msgid "Domain list (if images are loaded via absolute URLs)"
+msgstr ""
+
+msgid "Site pages that do not include auto-replace"
+msgstr ""
+
+msgid "Replace only URLs of images starting with a mask"
+msgstr ""
+
+msgid "List of 'srcset' attributes"
+msgstr ""
+
+msgid ""
+"You can find out your website ID in <a>your CDN OptiPic personal account</a>."
+" Add your site to your account if you have not already done so."
+msgstr ""
+
+msgid ""
+"Each on a new line and without specifying the protocol (http/https). Examples"
+msgstr ""
+
+msgid "Each on a new line and must start with a slash"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid ""
+"List of tag attributes, in which you need to replace srcset-markup of images."
+"<br/><a>What is srcset?</a>"
+msgstr ""
+
+msgid "OptiPic images optimization"
+msgstr ""
