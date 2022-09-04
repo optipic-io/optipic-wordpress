@@ -2,7 +2,7 @@
 
 > Fully automated process for converting all png and jpeg images to WebP format to the requirements of Google Pagespeed Insights. Solves the problem 'Serve images in next-gen formats'. Easy connection to WordPress.
 
- **[[Download plugin]](https://github.com/optipic-io/optipic-wordpress/releases/download/1.27.2/optipic.1.27.2.zip)**
+[![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-wordpress/releases/download/1.27.2/optipic.1.27.2.zip)
 
 ## How to convert to WebP all the images on the WordPress> CDN OptiPic — simple solution to the problem "Serve images in next-gen formats"
 
@@ -26,7 +26,7 @@
 *Convertation to Webp and image compression occurs in the background and does not slow down the opening of images on the browser.
 If the optimized version is not yet ready at the time of the image request, the original version is returned without any processing.*
 
-[![Download](https://optipic.io/images/download-button-w200.png)](https://github.com/optipic-io/optipic-wordpress/releases/download/1.27.2/optipic.1.27.2.zip)
+[![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-wordpress/releases/download/1.27.2/optipic.1.27.2.zip)
 
 ## Video instruction for configuring the module WordPress
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pznYZdRJ0X4/0.jpg)](https://www.youtube.com/watch?v=pznYZdRJ0X4)
