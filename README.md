@@ -1,10 +1,13 @@
 # WebP convert images WordPress in 2 clicks - OptiPic CDN ready plugin
 
-> Fully automated process for converting all png and jpeg images to WebP format to the requirements of Google Pagespeed Insights. Solves the problem 'Serve images in next-gen formats'. Easy connection to WordPress.
+> Fully automated process for converting all png and jpeg images to WebP format to the requirements of Google Pagespeed Insights. Solves the problem 'Serve images in next-gen formats'. Easy connection to WordPress. 
+
+[https://optipic.io/en/webp/wordpress/](https://optipic.io/en/webp/wordpress/)
 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-wordpress/releases/download/1.27.2/optipic.1.27.2.zip)
 
-## How to convert to WebP all the images on the WordPress> CDN OptiPic — simple solution to the problem "Serve images in next-gen formats"
+## How to convert to WebP all the images on the WordPress 
+> CDN OptiPic — simple solution to the problem "Serve images in next-gen formats"
 
 - [181 reviews](https://optipic.io/en/cdn/reviews/) ⭐⭐⭐⭐⭐
 - According to recommendations Google PageSpeed Insights
@@ -29,9 +32,10 @@ If the optimized version is not yet ready at the time of the image request, the 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-wordpress/releases/download/1.27.2/optipic.1.27.2.zip)
 
 ## Video instruction for configuring the module WordPress
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pznYZdRJ0X4/0.jpg)](https://www.youtube.com/watch?v=pznYZdRJ0X4)
+[![Video instruction for configuring the module WordPress](https://img.youtube.com/vi/pznYZdRJ0X4/0.jpg)](https://www.youtube.com/watch?v=pznYZdRJ0X4)
 
 ## 5 easy steps to connect WebP to WordPress
+
 ### Step #1: Download plugin WordPress WebP
 Download and install the official CDN OptiPic plugin for WordPress on your site.
 
@@ -69,7 +73,9 @@ Change other plugin settings if necessary
   ```
 
 * **Site pages that do not include auto-replace**
-Each on a new line and must start with a slash (/)
+  ```
+  Each on a new line and must start with a slash (/)
+  ```
 
 * **Replace only URLs of images starting with a mask**
   ```
