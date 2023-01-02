@@ -4,6 +4,23 @@
 > Solves the problem "Serve images in next-gen formats".  
 > Easy connection to WordPress. 
 
+<sup>|</sup>
+<sup>[English](https://optipic.io/en/webp/wordpress/) | </sup>
+<sup>[Español](https://optipic.io/es/webp/wordpress/) | </sup>
+<sup>[Deutsch](https://optipic.io/de/webp/wordpress/) | </sup>
+<sup>[Türk](https://optipic.io/tr/webp/wordpress/) | </sup>
+<sup>[Français](https://optipic.io/fr/webp/wordpress/) | </sup>
+<sup>[Italiano](https://optipic.io/it/webp/wordpress/) | </sup>
+<sup>[Português](https://optipic.io/pt/webp/wordpress/) | </sup>
+<sup>[Polski](https://optipic.io/pl/webp/wordpress/) | </sup>
+<sup>[Čeština](https://optipic.io/cz/webp/wordpress/) | </sup>
+<sup>[Русский](https://optipic.io/ru/webp/wordpress/) | </sup>
+<sup>[Беларуская](https://optipic.io/by/webp/wordpress/) | </sup>
+<sup>[中国](https://optipic.io/cn/webp/wordpress/) | </sup>
+<sup>[日本](https://optipic.io/jp/webp/wordpress/) | </sup>
+<sup>[বেঙ্গল](https://optipic.io/bn/webp/wordpress/) | </sup>
+<sup>[한국인](https://optipic.io/ko/webp/wordpress/) | </sup>
+
 [https://optipic.io/en/webp/wordpress/](https://optipic.io/en/webp/wordpress/)
 
 [![Download](https://optipic.io/images/download-button.png)](https://github.com/optipic-io/optipic-wordpress/releases/download/1.27.2/optipic.1.27.2.zip)
